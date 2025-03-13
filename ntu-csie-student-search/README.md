@@ -7,7 +7,7 @@ This script allows you to search for a student's name or student ID using the NT
 Run the script with either a student ID or a given name as the argument:
 
 ```bash
-./ldap_lookup.sh <input>
+./find.sh <name or id>
 ```
 
 ### Examples
